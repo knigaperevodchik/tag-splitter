@@ -1,3 +1,5 @@
+[![Boosty](https://img.shields.io/badge/Boosty-DONATE-f15f2c?style=for-the-badge)](https://boosty.to/knigaperevodchik)
+
 # tag-splitter
 
 🇺🇸 English | [🇷🇺 Русский](#-русский)
